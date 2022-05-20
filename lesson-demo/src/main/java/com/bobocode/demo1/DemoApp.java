@@ -1,4 +1,4 @@
-package com.bobocode;
+package com.bobocode.demo1;
 
 import java.util.Stack;
 
